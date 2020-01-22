@@ -123,6 +123,7 @@ Join our [Gitter channel](https://gitter.im/30-seconds-of-interviews/Lobby) to h
 * [What are the differences between `var`, `let`, `const` and no keyword statements?](#what-are-the-differences-between-var-let-const-and-no-keyword-statements)
 * [What is a virtual DOM and why is it used in libraries/frameworks?](#what-is-a-virtual-dom-and-why-is-it-used-in-librariesframeworks)
 * [What is a cross-site scripting attack (XSS) and how do you prevent it?](#what-is-a-cross-site-scripting-attack-xss-and-how-do-you-prevent-it)
+* [What is a Javascript Anonymous function?] (#What-is-a-Javascript-Anonymous-function?)
 </details>
 
 
